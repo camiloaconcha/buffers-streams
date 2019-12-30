@@ -1,0 +1,14 @@
+{
+  "name": "buffers-streams",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts":{
+	"start":"nodemon server.js"
+},
+  "repository": "git@github.com:camiloaconcha/buffers-streams.git",
+  "author": "Camilo",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
